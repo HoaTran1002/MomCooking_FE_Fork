@@ -1,0 +1,12 @@
+{
+    "titleContact":"Contact",
+    "sloganContact":"CONTACT US IF YOU HAVE ANY QUESTIONS",
+    "titleFieldType":"PLEASE TYPE YOUR INFORMATION HERE",
+    "name":"Name",
+    "message":"Message",
+    "placeholderName":"Type your name here",
+    "placeholderMessage":"Write your answer or your feedback",
+    "placeholderEmail":"Type your Email here",
+    "pageTitle":"Contact us",
+    "submitButton":"Submit"
+}

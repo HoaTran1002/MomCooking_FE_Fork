@@ -1,0 +1,83 @@
+/* styles.css (hoặc tên tập tin bạn chọn) */
+
+/* Reset các style mặc định của body và html */
+body,
+html {
+  background: #111;
+}
+
+/* Styles cho loader */
+.loader {
+  border: 3px solid #d6336c;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  animation: rotate 2s cubic-bezier(0.26, 1.36, 0.74, -0.29) infinite;
+}
+
+/* Styles cho loader2 */
+#loader2 {
+  border: 3px solid #3bc9db;
+  width: 220px;
+  height: 220px;
+  position: relative;
+  top: -216px;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  animation: rotate2 2s cubic-bezier(0.26, 1.36, 0.74, -0.29) infinite;
+}
+
+/* Styles cho loader3 */
+#loader3 {
+  border: 3px solid #d6336c;
+  width: 240px;
+  height: 240px;
+  position: relative;
+  top: -452px;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  animation: rotate 2s cubic-bezier(0.26, 1.36, 0.74, -0.29) infinite;
+}
+
+/* Styles cho loader4 */
+#loader4 {
+  border: 3px solid #3bc9db;
+  width: 260px;
+  height: 260px;
+  position: relative;
+  top: -708px;
+  border-left-color: transparent;
+  border-right-color: transparent;
+  animation: rotate2 2s cubic-bezier(0.26, 1.36, 0.74, -0.29) infinite;
+}
+
+/* Keyframes rotate */
+@keyframes rotate {
+  0% {
+    transform: rotateZ(-360deg);
+  }
+  100% {
+    transform: rotateZ(0deg);
+  }
+}
+
+/* Keyframes rotate2 */
+@keyframes rotate2 {
+  0% {
+    transform: rotateZ(360deg);
+  }
+  100% {
+    transform: rotateZ(0deg);
+  }
+}
+
+/* Styles cho #text */
+#text {
+  color: rgb(29, 7, 7);
+  font-family: Arial;
+  font-size: 20px;
+  position: relative;
+  top: -840px;
+}

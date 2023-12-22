@@ -1,0 +1,12 @@
+{
+    "titleContact":"Liên hệ",
+    "sloganContact":"Liên hệ với chúng tôi nếu như bạn có thắc mắc gì ",
+    "titleFieldType":"Điền các thông tin sau dưới đây",
+    "name":"Tên bạn",
+    "message":"Nội dung ",
+    "placeholderName":"Điền tên của bạn vào đây",
+    "placeholderMessage":"Ghi các nội dung mà bạn thắc mắc hoặc là đánh giá về chúng tôi",
+    "placeholderEmail":"Điền Email của bạn vào đây",
+    "pageTitle":"Liên hệ với chúng tôi",
+    "submitButton":"Gửi nội dung"
+}

@@ -1,0 +1,9 @@
+{
+    "subscribe":"SUBSCRIBES US",
+    "subscribeProvider":"WE WILL PROVIDE THE LATEST INFORMATION",
+    "emailPlaceholder":"Enter your email here",
+    "footer":{
+        "contactTitle":"Contact",
+        "serviceTitle":"Service"
+    }
+}
